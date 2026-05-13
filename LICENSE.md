@@ -1,4 +1,4 @@
-# 
+# Enhance Obsidian for Windows with Obsidian for Windows professional Script: cloud-sync & rich-text-editing, the #1 script. Includes cloud-sync and rich-text-editing for a smoother
 
 
 
